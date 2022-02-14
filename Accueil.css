@@ -1,0 +1,112 @@
+ .u-section-1 {
+  background-image: url("images/terremars.jfif");
+  min-height: 711px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-group-1 {
+  width: 411px;
+  min-height: 563px;
+  margin: 0 calc(((100% - 1320px) / 2) + 73px) 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 29px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  text-transform: none;
+  font-weight: 400;
+  margin: 46px 25px 0;
+}
+
+.u-section-1 .u-text-2 {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 1.125rem;
+  margin: 20px 1px 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 20px 1px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  background-image: none;
+  margin: 95px auto 0;
+  padding: 10px 60px;
+}
+
+@media (max-width: 1399px) {
+   .u-section-1 {
+    min-height: 614px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: calc(((100% - 1140px) / 2) + 73px);
+  }
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: calc(((100% - 940px) / 2) + 73px);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 388px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: calc(((100% - 720px) / 2) + 73px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 291px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: calc(((100% - 540px) / 2) + 73px);
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 183px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 21px;
+    margin-right: 21px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
